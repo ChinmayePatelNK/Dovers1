@@ -16,3 +16,9 @@ in GitHub.com create a new repo and copy the link
 6. then git commit -m "first commit"
 7. to add remote repo - git remote add origin "url"
 8. git push origin master
+
+
+hello mr nandish
+hi i am chinmaye from Mysuru
+hello
+hi bye bye
