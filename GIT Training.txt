@@ -12,13 +12,13 @@ in GitHub.com create a new repo and copy the link
 2. navigate to the folder you want to create local repo
 3. then type git init(to initialize)
 4. git status(until the repo was created no idea of status further alteration is tracked)
-5. use git add to add
+5. use git add . to add
 6. then git commit -m "first commit"
 7. to add remote repo - git remote add origin "url"
 8. git push origin master
 
 
-hello mr nandish
-hi i am chinmaye from Mysuru
-hello
-hi bye bye
+if you alter the note or file make sure you run this commands for the changes to be reflected in git repo:
+1. git add . 
+2. git commit -m "second commit"
+3. git push origin main
