@@ -1,0 +1,18 @@
+GIT Training: 
+
+Version Control System - VCS
+Team Foundation Server - TFS - Integration of codes (subscription based)
+SubVersion - SVN(same as TFS but free of cost)
+
+Steps to create a local repo and push it to the remote repo: 
+
+in GitHub.com create a new repo and copy the link
+
+1. install git check by typing GIT in the cmd prompt
+2. navigate to the folder you want to create local repo
+3. then type git init(to initialize)
+4. git status(until the repo was created no idea of status further alteration is tracked)
+5. use git add to add
+6. then git commit -m "first commit"
+7. to add remote repo - git remote add origin "url"
+8. git push origin master
